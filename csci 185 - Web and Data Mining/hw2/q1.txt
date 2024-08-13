@@ -1,0 +1,3 @@
+a) The names of the attributes are 'Unnamed: 0'(the row number), 'CRIM', 'ZN', 'INDUS', 'CHAS', 'NOX', 'RM', 'AGE', 'DIS', 'RAD', 'TAX', 'PTRATIO', 'B', 'LSTAT', and 'Price'.
+
+b) RAD and TAX are the only feature pair that are highly correlated with each other.
