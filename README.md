@@ -1,4 +1,4 @@
-#some assignments and projects
+Some assignments and projects
 The repository is sorted by course, with each consisting of various labs, assignments, and projects I found interesting. 
 
 My most recent work has been in CSCI 147 - Optimization II, where I tackled the TSP problem, a classic discrete optimization problem. 
